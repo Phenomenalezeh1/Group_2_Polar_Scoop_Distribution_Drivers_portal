@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="polar_blue">#1565C0</color>
+    <color name="polar_blue_dark">#0D47A1</color>
+    <color name="polar_blue_light">#E3F2FD</color>
+    <color name="polar_white">#FFFFFF</color>
+
+    <!-- Status Colors -->
+    <color name="status_pending">#FF8F00</color>
+    <color name="status_pending_bg">#FFF8E1</color>
+    <color name="status_delivered">#2E7D32</color>
+    <color name="status_delivered_bg">#E8F5E9</color>
+    <color name="status_failed">#C62828</color>
+    <color name="status_failed_bg">#FFEBEE</color>
+
+    <!-- Button Colors -->
+    <color name="btn_delivered">#2E7D32</color>
+    <color name="btn_delivered_pressed">#1B5E20</color>
+    <color name="btn_failed">#C62828</color>
+    <color name="btn_failed_pressed">#B71C1C</color>
+
+    <!-- General -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="screen_background">#F5F5F5</color>
+</resources>

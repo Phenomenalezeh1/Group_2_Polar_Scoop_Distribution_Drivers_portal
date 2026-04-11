@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PolarScoop" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/polar_blue</item>
+        <item name="colorPrimaryDark">@color/polar_blue_dark</item>
+        <item name="colorAccent">@color/polar_blue</item>
+        <item name="android:windowBackground">@color/screen_background</item>
+        <item name="android:statusBarColor">@color/polar_blue_dark</item>
+    </style>
+
+    <style name="Toolbar.PolarScoop" parent="Widget.AppCompat.Toolbar">
+        <item name="android:background">@color/polar_blue</item>
+        <item name="titleTextColor">@color/polar_white</item>
+        <item name="subtitleTextColor">@color/polar_blue_light</item>
+    </style>
+</resources>

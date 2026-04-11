@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btn_delivered">#2E7D32</color>
+    <color name="btn_delivered_pressed">#1B5E20</color>
+    <color name="btn_failed">#C62828</color>
+    <color name="btn_failed_pressed">#B71C1C</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="polar_blue">#1565C0</color>
+    <color name="polar_blue_dark">#0D47A1</color>
+    <color name="polar_blue_light">#E3F2FD</color>
+    <color name="polar_white">#FFFFFF</color>
+    <color name="screen_background">#F5F5F5</color>
+    <color name="status_delivered">#2E7D32</color>
+    <color name="status_delivered_bg">#E8F5E9</color>
+    <color name="status_failed">#C62828</color>
+    <color name="status_failed_bg">#FFEBEE</color>
+    <color name="status_pending">#FF8F00</color>
+    <color name="status_pending_bg">#FFF8E1</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <string name="app_name">Polar Scoop Driver</string>
+    <string name="btn_login">LOG IN</string>
+    <string name="btn_mark_delivered">✓  MARK AS DELIVERED</string>
+    <string name="btn_mark_failed">✕  MARK AS FAILED</string>
+    <string name="deliveries_title">Today\'s Deliveries</string>
+    <string name="driver_id_hint">Driver ID (e.g. DRIVER01)</string>
+    <string name="invalid_credentials">Invalid Driver ID or Password</string>
+    <string name="login_title">Polar Scoop\nDistribution</string>
+    <string name="logout">Logout</string>
+    <string name="order_items_title">Order Items</string>
+    <string name="password_hint">Password</string>
+    <string name="status_delivered">DELIVERED</string>
+    <string name="status_failed">FAILED</string>
+    <string name="status_pending">PENDING</string>
+    <style name="Theme.PolarScoop" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/polar_blue</item>
+        <item name="colorPrimaryDark">@color/polar_blue_dark</item>
+        <item name="colorAccent">@color/polar_blue</item>
+        <item name="android:windowBackground">@color/screen_background</item>
+        <item name="android:statusBarColor">@color/polar_blue_dark</item>
+    </style>
+    <style name="Toolbar.PolarScoop" parent="Widget.AppCompat.Toolbar">
+        <item name="android:background">@color/polar_blue</item>
+        <item name="titleTextColor">@color/polar_white</item>
+        <item name="subtitleTextColor">@color/polar_blue_light</item>
+    </style>
+</resources>

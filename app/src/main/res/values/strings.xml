@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Polar Scoop Driver</string>
+    <string name="login_title">Polar Scoop\nDistribution</string>
+    <string name="driver_id_hint">Driver ID (e.g. DRIVER01)</string>
+    <string name="password_hint">Password</string>
+    <string name="btn_login">LOG IN</string>
+    <string name="deliveries_title">Today\'s Deliveries</string>
+    <string name="status_pending">PENDING</string>
+    <string name="status_delivered">DELIVERED</string>
+    <string name="status_failed">FAILED</string>
+    <string name="btn_mark_delivered">✓  MARK AS DELIVERED</string>
+    <string name="btn_mark_failed">✕  MARK AS FAILED</string>
+    <string name="order_items_title">Order Items</string>
+    <string name="invalid_credentials">Invalid Driver ID or Password</string>
+    <string name="logout">Logout</string>
+</resources>

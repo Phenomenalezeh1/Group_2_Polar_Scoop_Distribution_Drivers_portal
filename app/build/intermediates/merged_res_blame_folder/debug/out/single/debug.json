@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_caf.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\caf.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_badge_pending.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\badge_pending.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_badge_delivered.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\badge_delivered.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_circle_flavor.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\circle_flavor.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_badge_quantity.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\badge_quantity.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\layout_item_order_item.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\layout\\item_order_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_btn_primary.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\btn_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_lfj.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\lfj.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\layout_activity_order_details.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\layout\\activity_order_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_fer.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\fer.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_badge_pending_white.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\badge_pending_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_btn_failed.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\btn_failed.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_circle_blue_light.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\circle_blue_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\layout_activity_delivery_list.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\layout\\activity_delivery_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_badge_failed.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\badge_failed.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_jdu.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\jdu.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_sand.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\sand.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_btn_delivered.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\btn_delivered.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_circle_white.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\circle_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_mylogo.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\mylogo.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_btn_outline_white.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\btn_outline_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\layout_item_delivery.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\layout\\item_delivery.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-merged_res-32:\\drawable_btn_failed_outline.xml.flat",
+        "source": "C:\\Users\\JUST LAPTOPS\\.gradle\\daemon\\8.5\\com.polarscoop.driver.app-main-34:\\drawable\\btn_failed_outline.xml"
+    },
+    {
+        "merged": "com.polarscoop.driver.app-merged_res-32:/layout_item_delivery.xml.flat",
+        "source": "com.polarscoop.driver.app-main-34:/layout/item_delivery.xml"
+    }
+]
