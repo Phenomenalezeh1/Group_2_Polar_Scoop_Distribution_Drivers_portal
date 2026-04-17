@@ -119,28 +119,3 @@ PolarScoopDriver/
 │           ├── colors.xml
 │           └── themes.xml
 ```
-
----
-
-## 6. How to Build & Run
-
-1. **Clone** the repository and open it in **Android Studio Hedgehog (2023.1)** or later.
-2. Let Gradle sync finish automatically.
-3. Connect a device (API 24+) or create an AVD with Android 7.0+.
-4. Press **Run ▶** or use `./gradlew assembleDebug` to generate the APK.
-5. Log in with `DRIVER01` / `password123`.
-
----
-
-## 7. Evaluation Checklist
-
-| Criterion | How it is met |
-|---|---|
-| **Feature 1 – Login** | `LoginActivity` with hard-coded DRIVER01/DRIVER02 accounts, error messaging |
-| **Feature 2 – Delivery List** | `DeliveryListActivity` + `DeliveryAdapter` RecyclerView; status badges; progress bar |
-| **Feature 3 – Order Details** | `OrderDetailsActivity` shows store, address, all items with quantities |
-| **Feature 4 – Update Status** | "Mark as Delivered" + "Mark as Failed" with optional reason; UI updates immediately; list refreshes on return |
-| **Driver-friendly UX** | 60dp tall buttons, large text, high-contrast colour palette, minimal typing |
-| **Local persistence** | SQLite via `DatabaseHelper`; status survives app restart |
-| **Mock data** | 6 stores pre-seeded with multiple flavours each |
-| **Code quality** | Javadoc comments on all public methods; clear package separation; singleton DB access |
