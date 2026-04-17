@@ -1,4 +1,4 @@
-# 🍦 Polar Scoop Driver Assistant
+#  Polar Scoop Driver Portal
 
 > **Mobile App Development Assignment – PoC Submission**
 > Course Level: Beginner / Intermediate Android Development
@@ -79,12 +79,12 @@ deliveries  1 ───< order_items
 
 | # | Store | Address | Items |
 |---|---|---|---|
-| 1 | Sandy's Cafe | 12 Baker Street, Port Harcourt | Vanilla Bean ×5, Chocolate Fudge ×3, Strawberry Swirl ×2 |
-| 2 | The Grand Hotel Kitchen | 45 Hotel Avenue, GRA Phase 2 | Vanilla Bean ×10, Cookies & Cream ×6, Mango Sorbet ×4, Caramel Crunch ×4 |
-| 3 | Sunrise Groceries | 7 Market Road, Rumuola | Chocolate Fudge ×8, Vanilla Bean ×6, Butter Pecan ×4 |
-| 4 | Mama's Kitchen Restaurant | 33 Aggrey Road, Old GRA | Strawberry Swirl ×4, Mint Choc Chip ×4, Pineapple Coconut ×2 |
+| 1 | Sandy's Cafe | 16 Rumuokoro Street, Port Harcourt | Vanilla Bean ×5, Chocolate Fudge ×3, Strawberry Swirl ×2 |
+| 2 | The Immaculate Hotel Kitchen | 44 Hotel Avenue, GRA Phase 2 | Vanilla Bean ×10, Cookies & Cream ×6, Mango Sorbet ×4, Caramel Crunch ×4 |
+| 3 | Sunny Groceries | 7 Futo Road, Rumuola | Chocolate Fudge ×8, Vanilla Bean ×6, Butter Pecan ×4 |
+| 4 | Rhapsody's Restaurant | 12 Isaac John Street, Old GRA | Strawberry Swirl ×4, Mint Choc Chip ×4, Pineapple Coconut ×2 |
 | 5 | FreshMart Superstore | 101 Aba Road, Rumuola Junction | Vanilla Bean ×12, Choc Fudge ×8, Cookies & Cream ×8, Mango Sorbet ×6, Caramel Crunch ×4 |
-| 6 | Blue Ocean Bistro | 22 Waterfront Drive, Trans-Amadi | Pineapple Coconut ×3, Mango Sorbet ×3, Mint Choc Chip ×2 |
+| 6 | Blue Ocean Bistro | 22 Waterfront Drive, Trans-Amadi | Pineapple Coconut ×3, Strawberry sundae ×3, Mint Chocolate Chip tubs ×2 |
 
 ---
 
